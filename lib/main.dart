@@ -131,7 +131,7 @@ class _MainState extends State<Main> {
             backgroundColor: Colors.purple,
             title: Center(
                 child: const Text(
-              "صحابه های جلیل القدر",
+              "صحابه های جلیل القدر...",
               textAlign: TextAlign.right,
             )),
           ),
